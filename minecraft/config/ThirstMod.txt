@@ -1,0 +1,63 @@
+# Configuration file
+# Generated on 24/01/13 19.51
+
+####################
+# block
+####################
+
+block {
+    I:"Drinks Brewer"=3505
+    I:"Drinks Store"=3507
+    I:"Rain Collector"=3506
+    I:"Underground Collector"=3508
+}
+
+
+####################
+# drinks
+####################
+
+drinks {
+    B:"Chocolate Milk"=true
+    B:"Fresh Bucket"=true
+    B:Milk=true
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:"Exhaustion Rate"=10
+    I:"Max Stack Size"=10
+    B:"Medievor Colours"=false
+    B:"Meter on leftside"=false
+    B:"Old Meter Textures"=false
+    B:"Peaceful On"=false
+    B:"Permit Mod Off"=true
+    B:"Poisoning On"=true
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:"Charcoal Filter"=797
+    I:"Chocolate Milk"=801
+    I:Coins=810
+    I:"Dirty Filter"=806
+    I:Filter=805
+    I:"Fresh Water"=803
+    I:"Fresh Water Bucket"=802
+    I:"Leg Cloth"=799
+    I:"Leg Cloth Full"=798
+    I:Milk=800
+    I:"Wood Glass"=807
+    I:"Wood-Glass Filter Water"=809
+    I:"Wood-Glass Water"=808
+}
+
+
